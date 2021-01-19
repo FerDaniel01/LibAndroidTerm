@@ -1,0 +1,3 @@
+include ':LibVariosCal'
+include ':app'
+rootProject.name = "CalculosVarios"
